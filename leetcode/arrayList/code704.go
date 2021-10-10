@@ -1,4 +1,4 @@
-package leetcode
+package arrayList
 
 func search(nums []int, target int) int {
 	l := 0

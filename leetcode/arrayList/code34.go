@@ -1,4 +1,4 @@
-package leetcode
+package arrayList
 
 import "log"
 

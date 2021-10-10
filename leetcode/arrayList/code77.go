@@ -1,4 +1,4 @@
-package leetcode
+package arrayList
 
 var res [][]int
 func combine(n int, k int) [][]int {

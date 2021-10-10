@@ -1,4 +1,4 @@
-package leetcode
+package arrayList
 
 func mySqrt(x int) int {
 	if x * x == x {

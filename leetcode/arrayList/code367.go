@@ -1,4 +1,4 @@
-package leetcode
+package arrayList
 
 func isPerfectSquare(num int) bool {
 	if num < 0 {
